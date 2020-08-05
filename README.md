@@ -6,11 +6,11 @@
 
 ## Introduction
 
-In JavaScript, functions are what's known as [first-class citizens](https://en.wikipedia.org/wiki/First-class_function) 
-of the language. This means they can be treated like any other variable: they 
-can be assigned to a variable, stored in a data structure, passed as an argument 
-to another function, or be the return value of another function. In this lab, 
-we're going to have an event handler send some information gathered by an 
+In JavaScript, functions are what's known as [first-class citizens](https://en.wikipedia.org/wiki/First-class_function)
+of the language. This means they can be treated like any other variable: they
+can be assigned to a variable, stored in a data structure, passed as an argument
+to another function, or be the return value of another function. In this lab,
+we're going to have an event handler send some information gathered by an
 `<input>` field to a helper function.
 
 ## Create a "First-Class" Function
